@@ -1,5 +1,6 @@
 # 📚 Classical E-Library (Bayt al-Hikma)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-hmslibrary.netlify.app-00C7B7.svg?style=flat-square&logo=netlify&logoColor=white)](https://hmslibrary.netlify.app/)
 [![Frontend: Vanilla JS](https://img.shields.io/badge/Frontend-Vanilla%20JS%20%28ES6%20Modules%29-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 [![Zero Dependencies](https://img.shields.io/badge/Dependencies-0%20Runtime%20%7C%20No%20Bundler-brightgreen.svg?style=flat-square)]()
 [![Performance: 99/100](https://img.shields.io/badge/Lighthouse-99%2F100%20Performance-green.svg?style=flat-square&logo=lighthouse&logoColor=white)]()
